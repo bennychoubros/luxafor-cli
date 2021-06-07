@@ -41,8 +41,20 @@ cp luxafor-light.py $HOME/bin/
 ## Usage
 Control the colour with
 ```sh
-python light.py green
+python luxafor-light.py green
 ```
+
+Turn it off wwith
+```sh
+python luxafor-light.py off
+```
+
+### Colors
+- Green
+- Yellow
+- Red
+- Blue
+- White
 
 ### Examples :
 Some aliases you could add in you dotfiles :
